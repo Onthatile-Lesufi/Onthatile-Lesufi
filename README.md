@@ -1,5 +1,5 @@
-## About Me
-## My Skills
+# About Me
+# My Skills
 - ### Multi-Language Proficiency
   ![https://img.shields.io/badge/JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![https://img.shields.io/badge/C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -22,27 +22,46 @@ On top of my proficiency with the MERN stack, I am also knowlegdable with other 
 I have proficenicy with deployment primarily relating to Heroku.
   
 - ### Multi-Platform Proficiency
+  ![https://img.shields.io/badge/JQuery](https://img.shields.io/badge/JQuery-5555aa?style=for-the-badge&logo=JQuery&logoColor=white)
   ![https://img.shields.io/badge/Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
   ![https://img.shields.io/badge/Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 On top of my proficeincy in web development, I am also proficient in multiple other programming paradigms such as game development and Arduino.
 
-## Featured Projects
+# Featured Projects
 
-The following section will cover my featured projects over the year.
-
----
-
-### [Yu-Gi-Oh! Price Tracker](https://github.com/Onthatile-Lesufi/formative-one-YuGiOh_Price_Tracker)
+#### The following section will cover my featured projects over the year.
 
 ---
 
-### [Hit Me Up](https://github.com/Onthatile-Lesufi/hit-me-up)
+## [Yu-Gi-Oh! Price Tracker](https://github.com/Onthatile-Lesufi/formative-one-YuGiOh_Price_Tracker)
 
----
+Yu-Gi-Oh!™ Price Tracker allows users to browse various Yu-Gi-Oh!™ cards, analyse their various market factors and compare them to other cards. Market factors include:
 
-### [Memento Mori](https://github.com/Onthatile-Lesufi/Memento-Mori)
+- Prices across varies digital stores
 
----
+- Average pricing
 
-## Contact Me
+- Popularity metrics on https://ygoprodeck.com:
+  - Total views
+  - Recent views
+  - Upvotes
+  - Downotes
+  - Number of reprintings in the form of set releases
+
+
+## [Hit Me Up](https://github.com/Onthatile-Lesufi/hit-me-up)
+
+The Hit Me Up page is a bold, dark-humored contact and service page for the fictional Hitman site. It allows users to sign up or log in to their account in order to book a hitman or purchase weapons. The page is designed with an edgy, underground aesthetic to match the theme, while maintaining clean layout and functionality. It's the gateway for users to enter the darker side of business—discreet, direct, and deadly efficient.
+
+
+## [Memento Mori](https://github.com/Onthatile-Lesufi/Memento-Mori)
+
+Memento Mori is a repository of graves, graveyards, cemeteries and mememorials across South Africa.
+
+# Contact Me
+- Email: onthatumi@outlook.com
+
+### Additional Platforms
+- [Instagram](https://www.instagram.com/mrnineframes/)
+- [Itch](https://mrnineframes.itch.io/)
