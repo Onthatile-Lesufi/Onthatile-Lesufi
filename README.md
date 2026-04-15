@@ -2,9 +2,9 @@
 
 Hello, I'm Onthatile Lesufi, in certain corners of cyberspace I go by MrNineFrames (or Mr.9 for short). I am currently an aspiring developer whose is studying in both the fields of web development and game development (with a minor in basic electrical engineering) at university. This Github page consists of all of my web development projects.
 
-![Onthatile-Lesufi's Stats](https://github-readme-stats.vercel.app/api?username=Onthatile-Lesufi&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Onthatile-Lesufi's Stats](https://github-readme-stats-fast.vercel.app/api?username=Onthatile-Lesufi&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![Onthatile-Lesufi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Onthatile-Lesufi&theme=dark&hide_border=true)
-![Onthatile-Lesufi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onthatile-Lesufi&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Onthatile-Lesufi's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Onthatile-Lesufi&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 # My Skills
 - ### Multi-Language Proficiency
@@ -14,8 +14,8 @@ Hello, I'm Onthatile Lesufi, in certain corners of cyberspace I go by MrNineFram
 
 Thanks to the wide spread of my studies I have proficeincy over multiple programming languages. This include: 
 - Javascript for web development
-- C# for game development
-- C++ for electrical engineering
+- C# for game development and dotnet API development
+- C++ for creative computing
   
 - ### CRUD Development
   ![https://img.shields.io/badge/MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -23,8 +23,9 @@ Thanks to the wide spread of my studies I have proficeincy over multiple program
   ![https://img.shields.io/badge/React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![https://img.shields.io/badge/Node%20js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![https://img.shields.io/badge/MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-On top of my proficiency with the MERN stack, I am also knowledgeable with other CRUD related softwares such as MySQL
+On top of my proficiency with the MERN stack, I am also knowledgeable with other CRUD related softwares such as MySQL and Postgres.
   
 - ### Deployent
   ![https://img.shields.io/badge/Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
