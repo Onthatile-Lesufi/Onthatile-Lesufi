@@ -89,7 +89,6 @@ The Hit Me Up page is a bold, dark-humored contact and service page for the fict
 
 Memento Mori is a repository of graves, graveyards, cemeteries and memorials across South Africa. It allows users to get access to the address and appearances of the various burial sites. This is all with the goal of making sure that the burials of loved ones will never be lost to the page of time and poor memory.
 
-Currently Memento Mori is being hosted on the internet. You can the website at: https://mementomorisa.co.za/
 
 # Contact Me
 - Email: onthatumi@outlook.com
